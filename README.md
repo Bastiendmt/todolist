@@ -1,6 +1,10 @@
 # todolist
+This Todolist app was made with node.js during an online course.
+
 ## Instalation
-run npm install
+Clone projet then run `npm install`
 
 ## Run
-npm start
+Then `npm start`
+
+and access http://localhost:8080/todo
