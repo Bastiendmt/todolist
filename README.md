@@ -1,4 +1,4 @@
-# todolist
+# Todolist
 This Todolist app was made with node.js during an online course.
 
 ## Instalation
